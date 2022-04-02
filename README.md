@@ -1,23 +1,34 @@
 # LDB Course Scaffolding TS
 
-&nbsp;
+**Install**
 
-## Install
 Install [Node.js](https://nodejs.org/) and [pnpm](https://pnpm.io/)
 
-> cd ./ldb-course-scaffolding-ts
+```sh
+cd ./ldb-course-scaffolding-ts
+```
 
-> pnpm install
+```sh
+pnpm install
+```
 
-> pnpm dev
+```sh
+pnpm dev
+```
 
 <br>
 
-### Format
-> pnpm format
+**Format**
+```sh
+pnpm format
+```
 
-### Build
-> pnpm build
+**Build**
+```sh
+pnpm build
+```
 
-### Preview build
-> pnpm preview
+**Preview build**
+```sh
+pnpm preview
+```
