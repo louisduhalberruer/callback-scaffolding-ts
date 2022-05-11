@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1.2847,0,0,1.2847,-142.33,-159.099)">
-        <text x="170.858px" y="556.968px" style="font-family:'Inter-Regular_ExtraBold', 'Inter';font-size:343.443px;">LDB</text>
-    </g>
-    <g transform="matrix(0.599044,0,0,0.599044,-27.5624,245.602)">
-        <text x="196.013px" y="902.095px" style="font-family:'Inter-Regular_Medium', 'Inter';font-size:343.443px;">COURSE</text>
+<svg width="100%" height="100%" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,-241.972)">
+        <g id="Logo" transform="matrix(1.001,0,0,5.13288,-48.4102,-229.43)">
+            <rect x="48.362" y="91.84" width="799.199" height="155.858" style="fill:none;"/>
+            <g transform="matrix(3.6784,0,0,0.717354,-2752.91,-117.789)">
+                <path d="M901.683,458.54L887.297,444.266L931.291,400.272L887.297,356.333L901.683,342.003L959.952,400.272L901.683,458.54ZM840.921,459.714L780.406,400.272L838.675,342.003L853.061,356.333L809.067,400.272L869.53,459.662L840.921,459.714ZM819.549,425.921L799.253,405.792L940.659,405.792L921.254,425.921L819.549,425.921ZM799.253,394.752L819.549,374.622L921.254,374.622L940.659,394.752L799.253,394.752Z" style="fill-rule:nonzero;"/>
+            </g>
+        </g>
     </g>
 </svg>
