@@ -1,11 +1,11 @@
-# LDB Course Scaffolding TS
+# callback Scaffolding TS
 
 **Install**
 
 Install [Node.js](https://nodejs.org/) and [pnpm](https://pnpm.io/)
 
 ```sh
-cd ./ldb-course-scaffolding-ts
+cd ./callback-scaffolding-ts
 ```
 
 ```sh
