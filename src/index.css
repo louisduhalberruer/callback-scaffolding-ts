@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+}
+
+@layer components {
+  .btn {
+    @apply px-5 py-3 font-semibold;
+  }
+
+  .btn.btn--primary {
+    @apply bg-primary text-white;
+  }
+
+  .btn.btn--gray {
+    @apply bg-gray-500;
+  }
+
+  .no-zoom {
+    touch-action: manipulation;
+  }
+}
